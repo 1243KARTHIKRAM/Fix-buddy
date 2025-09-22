@@ -60,10 +60,7 @@ npm start
 Open in browser: http://localhost:3000
 
 📸 Screenshots
-
-![Screenshot 2025-07-06 191521](https://github.com/user-attachments/assets/20156eaf-9da8-4e93-9a87-0edc2efcb451)
-#SignUP Page
-![Screenshot 2025-07-06 191521](https://github.com/user-attachments/assets/5934527e-038f-4560-8ee8-21afeb2c8d1e)
+#Home Page https://github.com/1243KARTHIKRAM/Fix-buddy/blob/main/assets/Screenshot%202025-09-22%20231212.png
 
 
 
