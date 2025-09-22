@@ -61,7 +61,9 @@ Open in browser: http://localhost:3000
 
 📸 Screenshots
 
-<img width="1880" height="915" alt="Screenshot 2025-09-22 231408" src="https://github.com/user-attachments/assets/20156eaf-9da8-4e93-9a87-0edc2efcb451" />
+![Screenshot 2025-07-06 191521](https://github.com/user-attachments/assets/20156eaf-9da8-4e93-9a87-0edc2efcb451)
+#SignUP Page
+![Screenshot 2025-07-06 191521](https://github.com/user-attachments/assets/5934527e-038f-4560-8ee8-21afeb2c8d1e)
 
 
 
