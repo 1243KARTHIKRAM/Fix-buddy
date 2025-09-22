@@ -59,8 +59,7 @@ cd frontend
 npm start
 Open in browser: http://localhost:3000
 
-📸 Screenshots
-#Home Page https://github.com/1243KARTHIKRAM/Fix-buddy/blob/main/assets/Screenshot%202025-09-22%20231212.png
+
 
 
 
@@ -72,3 +71,5 @@ Multilingual support for different regions.
 AI-powered service pricing & trend analytics.
 
 Integration with UPI/digital wallets for instant payments.
+
+#Home Page https://github.com/1243KARTHIKRAM/Fix-buddy/blob/main/assets/Screenshot%202025-09-22%20231212.png
