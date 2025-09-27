@@ -23,8 +23,6 @@ FixBuddy is a platform that connects **homeowners with skilled workers** for ser
 - **Frontend:** React.js / HTML, CSS, JavaScript (Bootstrap/Tailwind)  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **AI/ML:** Worker-service matching, chatbot integration  
-- **Deployment:** Netlify / Render / Heroku / AWS  
 
 ---
 
