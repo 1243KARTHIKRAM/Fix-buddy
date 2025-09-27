@@ -38,7 +38,7 @@ Copy code
 
 # ⚡ Installation & Setup  
 # Clone the repo
-git clone https://github.com/<your-username>/fixbuddy-home-servicing-platform.git
+git clone [https://github.com/<your-username>/fixbuddy-home-servicing-platform.git](https://github.com/1243KARTHIKRAM/Fix-buddy.git)
 cd fixbuddy-home-servicing-platform
 
 # Install backend dependencies
