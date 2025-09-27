@@ -37,7 +37,6 @@ Copy code
 ---
 
 # ⚡ Installation & Setup  
-```bash
 # Clone the repo
 git clone https://github.com/<your-username>/fixbuddy-home-servicing-platform.git
 cd fixbuddy-home-servicing-platform
@@ -57,19 +56,9 @@ npm start
 # Start frontend
 cd frontend
 npm start
-Open in browser: http://localhost:3000
 
+# Open in browser
+# http://localhost:3000
 
-
-
-
-🔮 Future Enhancements
-Mobile app version (React Native / Flutter).
-
-Multilingual support for different regions.
-
-AI-powered service pricing & trend analytics.
-
-Integration with UPI/digital wallets for instant payments.
 
 #Home Page https://github.com/1243KARTHIKRAM/Fix-buddy/blob/main/assets/Screenshot%202025-09-22%20231212.png
